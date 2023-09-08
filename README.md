@@ -1,1 +1,1 @@
-# GRIP-TSF_Business_Analytics_Data_Science
+# GRIP-TSF Data Science and Business Analytics
