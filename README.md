@@ -8,7 +8,7 @@ Exploratory Data Analysis - Retail:
 - What business problems can you derive by exploring the data?
 
 Exploratory Data Analysis - Terrorism:
-- Perform 'Exploratory Data Analysis' on dataset 'SampleSuperstore'.
+- Perform 'Exploratory Data Analysis' on dataset 'GlobalTerrorism'.
 - As a security/defence analyst, try to find out the hot zone of terrorism.
 - What security issues and insights can you derive by EDA?
 
